@@ -1,6 +1,14 @@
 //var name = prompt("What is your name?");
 //alert("Hello, " + name);
 
-var a = 5;
+/*  var a = 5;
 
-alert(a);
+alert(a); */
+
+/*
+( PARANTHESES )
+[ BRACKETS ]
+{ BRACES }
+*/
+
+

@@ -155,12 +155,14 @@ alert("The value is: " + ammout);
 //Lesson 29
 
 //WHILE LOOP
+    //SETTING UP THE INDEX
 var i = 1;
-
+    //CHECK THE CONDITION
 while (i<10) {
     // do stuff
     // do stuff
     // do stuff
+    //INCREMENT THE INDEX
     i++;
 }
 
@@ -172,6 +174,7 @@ for (var i = 1; i<10; i++) {
 }
 
 //DO... WHILE LOOP
+
 var a = 1;
 
 do {
@@ -190,4 +193,12 @@ if (isNaN(myNum)){
 } else (
     alert("A number")
 );
+
+var a = "1";
+var aNum = Number (a);
+
+if (!isNaN(aNum)) {
+    alert("A number");
+}
 */
+

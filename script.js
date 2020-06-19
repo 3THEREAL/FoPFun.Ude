@@ -201,4 +201,15 @@ if (!isNaN(aNum)) {
     alert("A number");
 }
 */
+//Lesson 31
+//var phrase = "This is a simple phrase.";
+//alert(phrase.length);
+//alert(phrase.toUpperCase());
+/*
+var ph1 = "Hello";
+var ph2 = "nigga";
 
+if (ph2.toUpperCase() == ph1.toLowerCase() ) {
+    alert("Equal");
+}
+*/
